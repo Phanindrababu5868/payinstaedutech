@@ -1,4 +1,4 @@
-[hpayinstaedutech.netlify.app](https://payinstaedutech.netlify.app/)
+https://payinstaedutech.netlify.app/
 
 # Getting Started with Create React App
 
